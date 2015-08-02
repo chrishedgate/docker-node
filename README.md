@@ -1,3 +1,3 @@
 # docker-node-base
 
-Dockerfile used for Docker Hub automated build of image to use as starting point for Node.js projects.
+Dockerfiles used for Docker Hub automated builds.
